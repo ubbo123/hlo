@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body id="tt">
+    <h1 id="h1">profile page</h1>
+    <img src="https://m.media-amazon.com/images/I/51tKIR7GWYL._AC_UF894,1000_QL80_.jpg" alt="shinchaaaaaaan" height="200" width="200">
+   
+
+    <p class="kk"><strong>Name:</strong>  shinchaaaaaaan</p>
+
+    <p class="ll">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt tempora, modi perferendis rerum nam incidunt consequatur, cumque iste soluta minima sit perspiciatis laborum sequi dolore molestiae architecto. Maxime, nesciunt quo?</p>
+    <p>Skills :</p>
+    <dl>
+        <li>Dancing</li>
+        <li>Trolling</li>
+        <li>Irritating</li>
+    </dl>
+    <dl class="jj">
+        <dt>Himawari</dt>
+        <dd>sister</dd>
+        <dt>Mexi</dt>
+        <dd>Mother</dd>
+        <dt>Hari</dt>
+        <dd>Father</dd>
+    </dl>
+
+
+</body>
+</html>
